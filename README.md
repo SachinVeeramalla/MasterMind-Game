@@ -2,7 +2,8 @@
 
 
 # MasterMind-Game
-Mastermind game where players guess a secret combination of 6 colors within 20 tries. Feedback is given on each guess, indicating correct color matches and correct positions. Implemented in Python using Test-First Development to ensure code quality and test coverage.
+
+Mastermind game where players guess a secret combination of 6 colors within 20 tries. Feedback is provided for each guess, indicating correct color matches and positions. The game is implemented in Python using Test-First Development principles, with comprehensive unit tests to ensure code quality and correctness.
 
 To install Paver, follow these simple steps:
 

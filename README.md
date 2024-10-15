@@ -7,11 +7,11 @@ Ensure you have Python and pip installed on your system.
 
 Install Paver using pip by running the following command:
 
-pip install Paver
+'**pip install Paver**'
 
 To start the game, simply run the following command:
 
-paver
+'**paver**'
 
 
 
